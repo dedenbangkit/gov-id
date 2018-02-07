@@ -1,4 +1,4 @@
-![logo](http://opengovindonesia.org/images/03032017_ApaKabarSatuDataIndonesia(3).jpg)
+![logo](https://s3-ap-southeast-1.amazonaws.com/dedenbangkit/Public/data-gov.jpeg)
 
 ## About
 

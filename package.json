@@ -1,0 +1,30 @@
+{
+  "name": "gov-id",
+  "version": "1.0.0",
+  "description": "Data.go.id Scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dedenbangkit/gov-id.git"
+  },
+  "keywords": [
+    "government",
+    "indonesia",
+    "data"
+  ],
+  "author": "Deden Bangkit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dedenbangkit/gov-id/issues"
+  },
+  "homepage": "https://github.com/dedenbangkit/gov-id#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "download": "^6.2.5",
+    "inquirer": "^5.1.0",
+    "request": "^2.83.0"
+  }
+}

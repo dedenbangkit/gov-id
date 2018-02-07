@@ -1,4 +1,4 @@
-![logo](http://blog.nusantech.co/wp-content/uploads/2016/10/icon-1.png)
+![logo](http://opengovindonesia.org/images/03032017_ApaKabarSatuDataIndonesia(3).jpg)
 
 ## About
 

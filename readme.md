@@ -4,7 +4,7 @@
 
 Gov-ID is created for collecting all available government data which stored on [data.go.id](http://data.go.id). This way much faster to download all the data.
 
-![image](https://s3-ap-southeast-1.amazonaws.com/dedenbangkit/gov-id.gif)
+![image](https://imgur.com/a/jeg5v)
 
 ## Usage (CLI)
 

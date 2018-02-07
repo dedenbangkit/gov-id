@@ -2,13 +2,9 @@
 
 ## About
 
----
-
 Gov-ID is created for collecting all available government data which stored on [data.go.id](http://data.go.id). This way much faster to download all the data.
 
 ## Usage (CLI)
-
----
 
 ### Installation
 ```
@@ -21,16 +17,15 @@ npm run gov-id
 ```
 
 ## Contributing
----
+
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
-
 ## Packages
----
+
 * [Cheerio](https://github.com/cheeriojs/cheerio). Simple implementation of core jQuery designed specifically for the server.
 * [Inquery](https://github.com/SBoudrias/Inquirer.js). A collection of common interactive command line user interfaces.
 * [Request](https://github.com/request/request). Simplified HTTP request client.
@@ -38,5 +33,5 @@ npm run gov-id
 
 
 ## License
----
+
 MIT

@@ -1,11 +1,15 @@
 ![logo](http://blog.nusantech.co/wp-content/uploads/2016/10/icon-1.png)
 
 ## About
+
 ---
+
 Gov-ID is created for collecting all available government data which stored on [data.go.id](http://data.go.id). This way much faster to download all the data.
 
 ## Usage (CLI)
+
 ---
+
 ### Installation
 ```
 git clone https://github.com/dedenbangkit/gov-id
